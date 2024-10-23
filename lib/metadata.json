@@ -1,11 +1,31 @@
 {
   "vaultName": "My notes",
-  "lastExport": 1729687046830,
+  "lastExport": 1729690544436,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "attachments/Slides Shot.png",
+    "Learning/Obsidian/Advanced Slides/Excalidraw slides.md",
+    "Learning/Obsidian/Advanced Slides/Advanced Slides.md",
+    "Learning/Obsidian/Advanced Slides/Speaker notes.md",
+    "Learning/Obsidian/Advanced Slides/Templated slides.md",
+    "Learning/Obsidian/Admonitions.md",
+    "Learning/Obsidian/Advanced Tables.md",
+    "Learning/Obsidian/Code blocks.md",
+    "Learning/Obsidian/Dataview.md",
+    "Learning/Obsidian/Insert unsplash image.md",
+    "Learning/Obsidian/Kanban.md",
+    "Learning/Obsidian/Mindmaps.canvas",
+    "Learning/Obsidian/Outliner.md",
+    "Learning/Obsidian/Practice exercises.md",
+    "Learning/Obsidian/Spaced Repetition.md",
+    "Learning/Obsidian/Templater.md",
+    "Learning/Linux.md",
+    "Learning/Techniques.md",
+    "Learning/Tips and tricks.md",
+    "Learning/Untitled mindmap.md",
     "TIL/concepts/digital-garden.md",
     "TIL/concepts/learn-in-public.md",
     "TIL/obsidian/slides-in-obsidian.md",
@@ -36,6 +56,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -69,6 +90,7 @@
     "lib/media/favicon.png",
     "lib/scripts/graph-data.js",
     "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
     "lib/styles/theme.css",
     "lib/styles/global-variable-styles.css",
     "lib/styles/supported-plugins.css",
@@ -76,194 +98,194 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1729687046830,
-      "sourceSize": 3874,
+      "modifiedTime": 1729690544436,
+      "sourceSize": 20849,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1729687046830,
-      "sourceSize": 447,
+      "modifiedTime": 1729690544436,
+      "sourceSize": 1591,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 131134,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 9654,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 412,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 1753,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1729687046830,
+      "modifiedTime": 1729690544436,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "TIL/concepts/digital-garden.md": {
-      "modifiedTime": 1729686314215,
-      "sourceSize": 479,
+      "modifiedTime": 1729689729712,
+      "sourceSize": 505,
       "exportedPath": "til/concepts/digital-garden.html",
       "dependencies": []
     },
     "TIL/concepts/learn-in-public.md": {
-      "modifiedTime": 1729686314215,
-      "sourceSize": 1154,
+      "modifiedTime": 1729689729712,
+      "sourceSize": 1180,
       "exportedPath": "til/concepts/learn-in-public.html",
       "dependencies": []
     },
@@ -282,9 +304,135 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1729687046830,
-      "sourceSize": 16,
+      "modifiedTime": 1729689729712,
+      "sourceSize": 56,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Advanced Slides/Excalidraw slides.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 86,
+      "exportedPath": "learning/obsidian/advanced-slides/excalidraw-slides.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Advanced Slides/Advanced Slides.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 952,
+      "exportedPath": "learning/obsidian/advanced-slides/advanced-slides.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Advanced Slides/Speaker notes.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 216,
+      "exportedPath": "learning/obsidian/advanced-slides/speaker-notes.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Advanced Slides/Templated slides.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 439,
+      "exportedPath": "learning/obsidian/advanced-slides/templated-slides.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Admonitions.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 397,
+      "exportedPath": "learning/obsidian/admonitions.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Advanced Tables.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 280,
+      "exportedPath": "learning/obsidian/advanced-tables.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Code blocks.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 218,
+      "exportedPath": "learning/obsidian/code-blocks.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Dataview.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 247,
+      "exportedPath": "learning/obsidian/dataview.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Insert unsplash image.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 196,
+      "exportedPath": "learning/obsidian/insert-unsplash-image.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Kanban.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 281,
+      "exportedPath": "learning/obsidian/kanban.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Mindmaps.canvas": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 6579,
+      "exportedPath": "learning/obsidian/mindmaps.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Outliner.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 291,
+      "exportedPath": "learning/obsidian/outliner.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Practice exercises.md": {
+      "modifiedTime": 1729690544436,
+      "sourceSize": 2330,
+      "exportedPath": "learning/obsidian/practice-exercises.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Spaced Repetition.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 337,
+      "exportedPath": "learning/obsidian/spaced-repetition.html",
+      "dependencies": []
+    },
+    "Learning/Obsidian/Templater.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 334,
+      "exportedPath": "learning/obsidian/templater.html",
+      "dependencies": []
+    },
+    "Learning/Linux.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 19,
+      "exportedPath": "learning/linux.html",
+      "dependencies": []
+    },
+    "Learning/Techniques.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 8094,
+      "exportedPath": "learning/techniques.html",
+      "dependencies": []
+    },
+    "Learning/Tips and tricks.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 4258,
+      "exportedPath": "learning/tips-and-tricks.html",
+      "dependencies": []
+    },
+    "Learning/Untitled mindmap.md": {
+      "modifiedTime": 1729689729712,
+      "sourceSize": 304,
+      "exportedPath": "learning/untitled-mindmap.html",
+      "dependencies": []
+    },
+    "attachments/Slides Shot.png": {
+      "modifiedTime": 1729689950276,
+      "sourceSize": 196114,
+      "exportedPath": "attachments/slides-shot.png",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1729690544436,
+      "sourceSize": 3194,
+      "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     }
   }
