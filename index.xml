@@ -12,11 +12,29 @@
     <description>Hey ho! Welcome to my digital garden. I’m David Jiménez, Senior software engineer currently working @ Scopely Games. Restless and curious, I’ve worked +10 years as developer and architect across a variety of fields, ranging from industries like insurance, digital marketing, pharma, social networks and now videogames.</description>
     <pubDate>Thu, 24 Oct 2024 09:56:45 GMT</pubDate>
   </item><item>
+    <title>Exporting vault to HTML and publish it</title>
+    <link>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</link>
+    <guid>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</guid>
+    <description>TIL to export my ObsidianMD vault as HTML and publish it on Github Pages. Tried Jekyll first, wasn’t quite what I was looking for, so I used the Obsidian Webpage Export (github.com/KosmosisDire/obsidian-webpage-export).</description>
+    <pubDate>Wed, 23 Oct 2024 13:57:08 GMT</pubDate>
+  </item><item>
+    <title>Learn in Public</title>
+    <link>https://rydra.github.io/TIL/concepts/Learn-in-Public</link>
+    <guid>https://rydra.github.io/TIL/concepts/Learn-in-Public</guid>
+    <description>“Learning in public” refers to the practice of sharing your learning journey, progress, and even mistakes openly, often through blog posts, social media, videos, or other platforms ...</description>
+    <pubDate>Tue, 22 Oct 2024 21:19:43 GMT</pubDate>
+  </item><item>
     <title>Digital Garden</title>
     <link>https://rydra.github.io/TIL/concepts/Digital-Garden</link>
     <guid>https://rydra.github.io/TIL/concepts/Digital-Garden</guid>
     <description>A digital garden is a personal, open, and evolving collection of notes, ideas, and resources shared on the internet, typically in a non-linear format.</description>
     <pubDate>Tue, 22 Oct 2024 21:06:29 GMT</pubDate>
+  </item><item>
+    <title>Slides in Obsidian</title>
+    <link>https://rydra.github.io/TIL/obsidian/Slides-in-Obsidian</link>
+    <guid>https://rydra.github.io/TIL/obsidian/Slides-in-Obsidian</guid>
+    <description>You can create awesome presentations with ObsidianMD and the Advanced Slides plugin. Check it at mszturc.github.io/obsidian-advanced-slides/. Incredibly beautiful and simple.</description>
+    <pubDate>Tue, 22 Oct 2024 20:56:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
