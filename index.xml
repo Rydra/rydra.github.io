@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Rydra&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Masa de pizza</title>
+    <link>https://rydra.github.io/Recetas/Masa-de-pizza</link>
+    <guid>https://rydra.github.io/Recetas/Masa-de-pizza</guid>
+    <description>Ingredientes Por persona: 100g harina 50ml agua un poco de masa madre 1/2 cucharada de aceite de oliva sal Preparación Amasar todo y dejar reposar unas cuantas horas (mejor del día ...</description>
+    <pubDate>Thu, 24 Oct 2024 16:29:59 GMT</pubDate>
+  </item><item>
     <title>Quartz</title>
     <link>https://rydra.github.io/TIL/obsidian/Quartz</link>
     <guid>https://rydra.github.io/TIL/obsidian/Quartz</guid>
@@ -59,12 +65,6 @@
     <guid>https://rydra.github.io/TIL/concepts/Digital-Garden</guid>
     <description>A digital garden is a personal, open, and evolving collection of notes, ideas, and resources shared on the internet, typically in a non-linear format.</description>
     <pubDate>Tue, 22 Oct 2024 21:06:29 GMT</pubDate>
-  </item><item>
-    <title>Slides in Obsidian</title>
-    <link>https://rydra.github.io/TIL/obsidian/Slides-in-Obsidian</link>
-    <guid>https://rydra.github.io/TIL/obsidian/Slides-in-Obsidian</guid>
-    <description>You can create awesome presentations with ObsidianMD and the Advanced Slides plugin. Check it at mszturc.github.io/obsidian-advanced-slides/. Incredibly beautiful and simple.</description>
-    <pubDate>Tue, 22 Oct 2024 20:56:08 GMT</pubDate>
   </item>
     </channel>
   </rss>
