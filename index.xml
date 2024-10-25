@@ -6,17 +6,11 @@
       <description>Last 10 notes on 🪴 Rydra&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>David Jiménez&#039;s CV</title>
+    <title>CV</title>
     <link>https://rydra.github.io/My-CV</link>
     <guid>https://rydra.github.io/My-CV</guid>
     <description>David Jiménez Martínez Senior Software Engineer, Python Developer Github - Blog - LinkedIn Summary Software Engineer with +10 years of experience in the full development cycle ...</description>
     <pubDate>Fri, 25 Oct 2024 16:34:24 GMT</pubDate>
-  </item><item>
-    <title>David Jiménez&#039;s CV</title>
-    <link>https://rydra.github.io/CV/</link>
-    <guid>https://rydra.github.io/CV/</guid>
-    <description>David Jiménez Martínez Senior Software Engineer, Python Developer Github - Blog - LinkedIn Summary Software Engineer with +10 years of experience in the full development cycle ...</description>
-    <pubDate>Fri, 25 Oct 2024 08:57:04 GMT</pubDate>
   </item><item>
     <title>Masa de pizza</title>
     <link>https://rydra.github.io/Recetas/Masa-de-pizza</link>
@@ -65,6 +59,12 @@
     <guid>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</guid>
     <description>TIL to export my ObsidianMD vault as HTML and publish it on Github Pages. Tried Jekyll first, wasn’t quite what I was looking for, so I used the Obsidian Webpage Export (github.com/KosmosisDire/obsidian-webpage-export).</description>
     <pubDate>Wed, 23 Oct 2024 13:57:08 GMT</pubDate>
+  </item><item>
+    <title>Learn in Public</title>
+    <link>https://rydra.github.io/TIL/concepts/Learn-in-Public</link>
+    <guid>https://rydra.github.io/TIL/concepts/Learn-in-Public</guid>
+    <description>“Learning in public” refers to the practice of sharing your learning journey, progress, and even mistakes openly, often through blog posts, social media, videos, or other platforms ...</description>
+    <pubDate>Tue, 22 Oct 2024 21:19:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
