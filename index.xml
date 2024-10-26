@@ -6,6 +6,48 @@
       <description>Last 10 notes on 🪴 Rydra&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Cornell Technique</title>
+    <link>https://rydra.github.io/TIL/obsidian/Cornell-Technique</link>
+    <guid>https://rydra.github.io/TIL/obsidian/Cornell-Technique</guid>
+    <description>til the Cornell technique, a note-taking technique that provides a writing structure to help summarisation of what you study, as well as posterior studying to improve retention ...</description>
+    <pubDate>Sat, 26 Oct 2024 09:43:04 GMT</pubDate>
+  </item><item>
+    <title>Cómo tomar notas con la técnica Cornell</title>
+    <link>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-con-la-t%C3%A9cnica-Cornell</link>
+    <guid>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-con-la-t%C3%A9cnica-Cornell</guid>
+    <description>Cómo funciona el método Cornell La técnica Cornell es una técnica de sintetización de información y de toma de notas que consiste básicamente en que, cuando vas a tomar notas en clase ...</description>
+    <pubDate>Sat, 26 Oct 2024 07:07:53 GMT</pubDate>
+  </item><item>
+    <title>Cómo tomar notas de manera eficaz mientras estudias un libro</title>
+    <link>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-de-manera-eficaz-mientras-estudias-un-libro</link>
+    <guid>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-de-manera-eficaz-mientras-estudias-un-libro</guid>
+    <description>Para tomar notas de manera eficaz mientras estudias un libro, puedes seguir estos pasos: 1. Previsualiza y organiza Antes de empezar cada capítulo, revisa los títulos, subtítulos, y cualquier resumen o sección de conclusiones para captar la estructura.</description>
+    <pubDate>Sat, 26 Oct 2024 07:01:51 GMT</pubDate>
+  </item><item>
+    <title>Mindmaps</title>
+    <link>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-hacer-Mindmaps</link>
+    <guid>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-hacer-Mindmaps</guid>
+    <description>Mind maps Hacer un mindmap (o mapa mental) es un proceso visual y estructurado para organizar ideas y conceptos. Aquí te explico cómo crear uno paso a paso: Define el tema central Coloca el tema principal en el centro del mapa.</description>
+    <pubDate>Fri, 25 Oct 2024 22:59:59 GMT</pubDate>
+  </item><item>
+    <title>Software to install in a newly formatted machine</title>
+    <link>https://rydra.github.io/Software-Engineering/How-tos/Software-to-install-in-a-newly-formatted-machine</link>
+    <guid>https://rydra.github.io/Software-Engineering/How-tos/Software-to-install-in-a-newly-formatted-machine</guid>
+    <description></description>
+    <pubDate>Fri, 25 Oct 2024 22:29:23 GMT</pubDate>
+  </item><item>
+    <title>Changing from Docker Desktop to Docker Engine</title>
+    <link>https://rydra.github.io/Software-Engineering/How-tos/Changing-from-Docker-Desktop-to-Docker-Engine</link>
+    <guid>https://rydra.github.io/Software-Engineering/How-tos/Changing-from-Docker-Desktop-to-Docker-Engine</guid>
+    <description>Changing to Docker Engine: docker context use default Changing to Docker Desktop: docker content use desktop-linux.</description>
+    <pubDate>Fri, 25 Oct 2024 22:27:02 GMT</pubDate>
+  </item><item>
+    <title>Useful software table</title>
+    <link>https://rydra.github.io/Software-Engineering/Useful-software-table</link>
+    <guid>https://rydra.github.io/Software-Engineering/Useful-software-table</guid>
+    <description> NameDescriptionLinkKrohnkiteTiling manager for KDEOrganiseScript to organise files in FSorganize.readthedocs.io.</description>
+    <pubDate>Fri, 25 Oct 2024 22:21:04 GMT</pubDate>
+  </item><item>
     <title>CV</title>
     <link>https://rydra.github.io/My-CV</link>
     <guid>https://rydra.github.io/My-CV</guid>
@@ -23,48 +65,6 @@
     <guid>https://rydra.github.io/TIL/obsidian/Quartz</guid>
     <description>til about Quartz (github.com/jackyzha0/quartz), a very nice framework that transforms my obsidian vault into a beautiful website.</description>
     <pubDate>Thu, 24 Oct 2024 14:11:04 GMT</pubDate>
-  </item><item>
-    <title>System Design Blueprint</title>
-    <link>https://rydra.github.io/Software-Engineering/Infographs/System-Design-Blueprint</link>
-    <guid>https://rydra.github.io/Software-Engineering/Infographs/System-Design-Blueprint</guid>
-    <description>Purchase hi-res link A comprehensive visual guide that provides developers with a quick and easy reference to key concepts and best practices in system design ...</description>
-    <pubDate>Thu, 24 Oct 2024 14:00:43 GMT</pubDate>
-  </item><item>
-    <title>Software architecture styles</title>
-    <link>https://rydra.github.io/Software-Engineering/Infographs/Software-architecture-styles</link>
-    <guid>https://rydra.github.io/Software-Engineering/Infographs/Software-architecture-styles</guid>
-    <description> Open image.</description>
-    <pubDate>Thu, 24 Oct 2024 13:55:54 GMT</pubDate>
-  </item><item>
-    <title>Explaining CI-CD to a kid</title>
-    <link>https://rydra.github.io/Software-Engineering/Infographs/Explaining-CI-CD-to-a-kid</link>
-    <guid>https://rydra.github.io/Software-Engineering/Infographs/Explaining-CI-CD-to-a-kid</guid>
-    <description> Open image.</description>
-    <pubDate>Thu, 24 Oct 2024 13:40:14 GMT</pubDate>
-  </item><item>
-    <title>SOLID principles with penguins</title>
-    <link>https://rydra.github.io/Memes/SOLID-principles-with-penguins</link>
-    <guid>https://rydra.github.io/Memes/SOLID-principles-with-penguins</guid>
-    <description> .</description>
-    <pubDate>Thu, 24 Oct 2024 13:21:43 GMT</pubDate>
-  </item><item>
-    <title>Welcome to Rydra&#039;s Digital Garden</title>
-    <link>https://rydra.github.io/</link>
-    <guid>https://rydra.github.io/</guid>
-    <description>Hey ho! Welcome to my digital garden. I’m David Jiménez, Senior software engineer currently working @ Scopely Games. Restless and curious, I’ve worked +10 years as developer and architect across a variety of fields, ranging from industries like insurance, digital marketing, pharma, social networks and now videogames.</description>
-    <pubDate>Thu, 24 Oct 2024 09:56:45 GMT</pubDate>
-  </item><item>
-    <title>Exporting vault to HTML and publish it</title>
-    <link>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</link>
-    <guid>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</guid>
-    <description>TIL to export my ObsidianMD vault as HTML and publish it on Github Pages. Tried Jekyll first, wasn’t quite what I was looking for, so I used the Obsidian Webpage Export (github.com/KosmosisDire/obsidian-webpage-export).</description>
-    <pubDate>Wed, 23 Oct 2024 13:57:08 GMT</pubDate>
-  </item><item>
-    <title>Learn in Public</title>
-    <link>https://rydra.github.io/TIL/concepts/Learn-in-Public</link>
-    <guid>https://rydra.github.io/TIL/concepts/Learn-in-Public</guid>
-    <description>“Learning in public” refers to the practice of sharing your learning journey, progress, and even mistakes openly, often through blog posts, social media, videos, or other platforms ...</description>
-    <pubDate>Tue, 22 Oct 2024 21:19:43 GMT</pubDate>
   </item>
     </channel>
   </rss>

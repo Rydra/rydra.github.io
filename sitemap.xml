@@ -1,4 +1,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-estudiar-libros-IT-de-manera-eficaz</loc>
+    <lastmod>2024-10-21T09:54:26.671Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-hacer-Mindmaps</loc>
+    <lastmod>2024-10-25T22:59:59.626Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-la-gente-real-procesa-notas</loc>
+    <lastmod>2024-10-23T15:57:24.304Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-con-la-t%C3%A9cnica-Cornell</loc>
+    <lastmod>2024-10-26T07:07:53.109Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Learning/Productivity/C%C3%B3mo-tomar-notas-de-manera-eficaz-mientras-estudias-un-libro</loc>
+    <lastmod>2024-10-26T07:01:51.862Z</lastmod>
+  </url><url>
     <loc>https://rydra.github.io/Memes/SOLID-principles-with-penguins</loc>
     <lastmod>2024-10-24T13:21:43.291Z</lastmod>
   </url><url>
@@ -7,6 +22,12 @@
   </url><url>
     <loc>https://rydra.github.io/Recetas/Masa-de-pizza</loc>
     <lastmod>2024-10-24T16:29:59.509Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Software-Engineering/How-tos/Changing-from-Docker-Desktop-to-Docker-Engine</loc>
+    <lastmod>2024-10-25T22:27:02.866Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/Software-Engineering/How-tos/Software-to-install-in-a-newly-formatted-machine</loc>
+    <lastmod>2024-10-25T22:29:23.311Z</lastmod>
   </url><url>
     <loc>https://rydra.github.io/Software-Engineering/Infographs/Explaining-CI-CD-to-a-kid</loc>
     <lastmod>2024-10-24T13:40:14.945Z</lastmod>
@@ -17,11 +38,17 @@
     <loc>https://rydra.github.io/Software-Engineering/Infographs/System-Design-Blueprint</loc>
     <lastmod>2024-10-24T14:00:43.456Z</lastmod>
   </url><url>
+    <loc>https://rydra.github.io/Software-Engineering/Useful-software-table</loc>
+    <lastmod>2024-10-25T22:21:04.391Z</lastmod>
+  </url><url>
     <loc>https://rydra.github.io/TIL/concepts/Digital-Garden</loc>
     <lastmod>2024-10-22T21:06:29.542Z</lastmod>
   </url><url>
     <loc>https://rydra.github.io/TIL/concepts/Learn-in-Public</loc>
     <lastmod>2024-10-22T21:19:43.735Z</lastmod>
+  </url><url>
+    <loc>https://rydra.github.io/TIL/obsidian/Cornell-Technique</loc>
+    <lastmod>2024-10-26T09:43:04.120Z</lastmod>
   </url><url>
     <loc>https://rydra.github.io/TIL/obsidian/Exporting-vault-to-HTML-and-publish-it</loc>
     <lastmod>2024-10-23T13:57:08.716Z</lastmod>
