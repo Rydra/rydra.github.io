@@ -6,6 +6,18 @@
       <description>Last 10 notes on 🪴 Rydra&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Restaurante de casa</title>
+    <link>https://rydra.github.io/Recetas/Restaurante-de-casa</link>
+    <guid>https://rydra.github.io/Recetas/Restaurante-de-casa</guid>
+    <description>Carnes Carne a la plancha o churrasquera Pollo rustido o al horno Pollo dorado en miel y mostaza Pollow teriyaki con verduras Couscous the pollo Huevos rotos con carne picada Pollo ...</description>
+    <pubDate>Fri, 27 Jun 2025 15:58:10 GMT</pubDate>
+  </item><item>
+    <title>K3S Learnings</title>
+    <link>https://rydra.github.io/Learning/K3S/K3S-Learnings</link>
+    <guid>https://rydra.github.io/Learning/K3S/K3S-Learnings</guid>
+    <description>Introduction Currently I have a server that hosts a bunch of services for my home lab. The infrastructure architecture is pretty simple: The services are deployed in docker containers The services are exposed through Traefik As an exercise I decided to move all those services to kubernetes.</description>
+    <pubDate>Thu, 15 May 2025 21:37:16 GMT</pubDate>
+  </item><item>
     <title>Galletas de avena y crema de cacahuete</title>
     <link>https://rydra.github.io/Recetas/Galletas-de-avena-y-crema-de-cacahuete</link>
     <guid>https://rydra.github.io/Recetas/Galletas-de-avena-y-crema-de-cacahuete</guid>
@@ -27,7 +39,7 @@
     <title>Galletas de chocolate</title>
     <link>https://rydra.github.io/Recetas/Galletas-de-chocolate</link>
     <guid>https://rydra.github.io/Recetas/Galletas-de-chocolate</guid>
-    <description>Claro! El rustido de pollo es un plato clásico de la cocina catalana, perfecto para una comida reconfortante. Aquí tienes una receta básica para prepararlo: Ingredientes: 1 huevo a temperatura ambiente 100g mantequilla a temperatura ambiente 75g azúcar blanco 100g azúcar moreno 200g harina 2g levadura 150g choco chips 3g sal 1 cucharada de vainilla Preparación: Mezcla el azúcar, la mantequilla y el huevo con una batidora de amasar hasta que esté todo integrado, aunque no tiene por qué ser del todo uniforme Añadir la harina, levadura y sal, e integrar con la batidora Sigue amasando, pero esta vez con las manos limpias para que quede bien homogénea la masa Añade las pepitas de chocolate y sigue amasando Haz bolitas pequeñas de para cada galleta.</description>
+    <description>Ingredientes: 1 huevo a temperatura ambiente 100g mantequilla a temperatura ambiente 75g azúcar blanco 100g azúcar moreno 200g harina 2g levadura 150g choco chips 3g sal 1 cucharada ...</description>
     <pubDate>Tue, 25 Feb 2025 20:25:21 GMT</pubDate>
   </item><item>
     <title>Una arquitectura web escalable</title>
@@ -53,18 +65,6 @@
     <guid>https://rydra.github.io/Recetas/Flan-de-naranja</guid>
     <description>Aquí tienes una receta sencilla para preparar un delicioso flan de naranja: Ingredientes 500 ml de leche entera 4 huevos grandes 150 g de azúcar (puedes ajustar según tu preferencia) ...</description>
     <pubDate>Sun, 12 Jan 2025 21:31:12 GMT</pubDate>
-  </item><item>
-    <title>Autosub</title>
-    <link>https://rydra.github.io/TIL/Autosub-and-Handbrake</link>
-    <guid>https://rydra.github.io/TIL/Autosub-and-Handbrake</guid>
-    <description>til about AutoSub and HandBrake, a python script to generate subtitles from a videos and convert from DVD format to mp4 easily. They allowed me to recover and preserve some old DVDs I had hanging around!.</description>
-    <pubDate>Sun, 12 Jan 2025 21:24:57 GMT</pubDate>
-  </item><item>
-    <title>Ternera a la plancha</title>
-    <link>https://rydra.github.io/Recetas/Ternera-a-la-plancha</link>
-    <guid>https://rydra.github.io/Recetas/Ternera-a-la-plancha</guid>
-    <description>Ingredientes: 1 filete de ternera (250 g aprox.) Sal gruesa (o al gusto) Pimienta negra recién molida (opcional) Aceite de oliva virgen extra Instrucciones: Preparación del filete: ...</description>
-    <pubDate>Sun, 12 Jan 2025 21:22:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
