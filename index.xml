@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Rydra&#039;s Digital Garden</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Test receta</title>
+    <link>https://rydra.github.io/Test-receta</link>
+    <guid>https://rydra.github.io/Test-receta</guid>
+    <description>receta El caldo corto es un líquido aromatizado que se utiliza principalmente para cocinar pescados, mariscos y, en ocasiones, carnes o verduras de manera rápida ...</description>
+    <pubDate>Wed, 15 Apr 2026 22:33:37 GMT</pubDate>
+  </item><item>
     <title>Mermelada</title>
     <link>https://rydra.github.io/Recetas/Mermelada</link>
     <guid>https://rydra.github.io/Recetas/Mermelada</guid>
@@ -59,12 +65,6 @@
     <guid>https://rydra.github.io/Software-Engineering/Una-arquitectura-web-escalable</guid>
     <description>Diseñar una arquitectura escalable para una aplicación web basada en microservicios implica descomponer la aplicación en servicios independientes, cada uno con responsabilidades ...</description>
     <pubDate>Sun, 09 Feb 2025 19:30:56 GMT</pubDate>
-  </item><item>
-    <title>Croquetas de coliflor con bechamel</title>
-    <link>https://rydra.github.io/Recetas/Croquetas-de-coliflor-con-bechamel</link>
-    <guid>https://rydra.github.io/Recetas/Croquetas-de-coliflor-con-bechamel</guid>
-    <description>Añadir bechamel a las croquetas de coliflor es una excelente idea, ya que les da una textura cremosa y las hace más jugosas. Aquí te explico cómo incorporarla: Receta de croquetas de coliflor con bechamel: Ingredientes: 1 coliflor mediana (500 g aprox.) 2 cucharadas de mantequilla o aceite de oliva 2 cucharadas de harina 250 ml de leche (puede ser vegetal si prefieres) Sal, pimienta y nuez moscada al gusto 50 g de queso rallado (opcional) Pan rallado (para rebozar, opcional) Aceite (para freír o hornear) Instrucciones: Preparar la coliflor: Cocina la coliflor en agua hirviendo con sal hasta que esté tierna (10-12 minutos).</description>
-    <pubDate>Mon, 03 Feb 2025 22:32:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
