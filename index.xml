@@ -25,8 +25,8 @@
     <pubDate>Fri, 27 Jun 2025 15:58:10 GMT</pubDate>
   </item><item>
     <title>K3S Learnings</title>
-    <link>https://rydra.github.io/Learning/K3S/K3S-Learnings</link>
-    <guid>https://rydra.github.io/Learning/K3S/K3S-Learnings</guid>
+    <link>https://rydra.github.io/Software-Engineering/K3S/K3S-Learnings</link>
+    <guid>https://rydra.github.io/Software-Engineering/K3S/K3S-Learnings</guid>
     <description>Introduction Currently I have a server that hosts a bunch of services for my home lab. The infrastructure architecture is pretty simple: The services are deployed in docker containers The services are exposed through Traefik As an exercise I decided to move all those services to kubernetes.</description>
     <pubDate>Thu, 15 May 2025 21:37:16 GMT</pubDate>
   </item><item>
